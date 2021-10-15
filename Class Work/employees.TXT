@@ -1,0 +1,7 @@
+Петр junior 5 1
+Владимир senior 3 0
+Сергей middle 0 0
+Павел middle 0 1
+Андрей teamlead 4 1
+Никита middle 1 0
+Василий junior 2 1
