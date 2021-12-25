@@ -1,0 +1,7 @@
+1 Red
+2 Синий
+3 YelLow
+4 ЧерНыЙ
+5 белый
+6 white
+7 gREEN
